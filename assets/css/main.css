@@ -182,7 +182,7 @@ input, select, textarea {
 	  justify-content: center;
 	}
   
-	&__cta {
+	/* &__cta {
 	  position: absolute;
 	  top: 50%;
 	  left: 50%;
@@ -197,7 +197,7 @@ input, select, textarea {
 		  margin-left: 2rem;
 		}
 	  }
-	}
+	} */
   
 
 /* Basic */
